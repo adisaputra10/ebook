@@ -10,6 +10,7 @@ If you want to contribute to this list, send a pull request. All contributors wi
 
 You can find all the books listed below in [**book**](/book) folder of this repo:
 
+* Cloud Native Devops With Kubernetes [[Download]](/book/Cloud-Native-Devops-with-Kubernetes-full-book.pdf)
 * A Practical Guide to Continuous Delivery [[Download]](/book/A%20Practical%20Guide%20to%20Continuous%20Delivery.epub)
 * Advanced Bash-Scripting Guide [[Download]](/book/Advanced%20Bash-Scripting%20Guide.pdf)
 * API-Driven DevOps [[Download]](/book/API-Driven%20DevOps.epub)
